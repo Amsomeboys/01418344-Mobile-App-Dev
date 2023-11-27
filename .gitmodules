@@ -1,3 +1,6 @@
 [submodule "PlanningApp"]
 	path = PlanningApp
 	url = https://github.com/Amsomeboys/PlanningApp.git
+[submodule "native-app"]
+	path = native-app
+	url = https://github.com/Amsomeboys/native-app.git
