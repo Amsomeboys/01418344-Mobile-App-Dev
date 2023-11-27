@@ -1,0 +1,3 @@
+[submodule "PlanningApp"]
+	path = PlanningApp
+	url = https://github.com/Amsomeboys/PlanningApp.git
