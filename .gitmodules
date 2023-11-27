@@ -7,3 +7,27 @@
 [submodule "navi-app"]
 	path = navi-app
 	url = https://github.com/Amsomeboys/navi-app.git
+[submodule "Midterm-Exam"]
+	path = Midterm-Exam
+	url = https://github.com/Amsomeboys/Midterm-Exam.git
+[submodule "api_test"]
+	path = api_test
+	url = https://github.com/Amsomeboys/api_test.git
+[submodule "hook-app"]
+	path = hook-app
+	url = https://github.com/Amsomeboys/hook-app.git
+[submodule "mobile_06"]
+	path = mobile_06
+	url = https://github.com/Amsomeboys/mobile_06.git
+[submodule "memo-app"]
+	path = memo-app
+	url = https://github.com/Amsomeboys/memo-app.git
+[submodule "CRUD-app"]
+	path = CRUD-app
+	url = https://github.com/Amsomeboys/CRUD-app.git
+[submodule "mobile-final-project"]
+	path = mobile-final-project
+	url = https://github.com/Amsomeboys/mobile-final-project.git
+[submodule "final-test"]
+	path = final-test
+	url = https://github.com/Amsomeboys/final-test.git
